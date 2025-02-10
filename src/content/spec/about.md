@@ -1,23 +1,15 @@
 ---
-title: 自述
-description: 这是一份站长的自述报告，请查收。
+title: 关于
+description: 这里是一份关于土豆的篇篇纸，快来看看
 comments: false
 ---
 
-## 关于 Gyoza
+## 关于本人
 
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
+👋嗨，这里是 磅豆龙 的个人站，采用 [hexo](https://hexo.io/zh-cn/) 框架进行搭建。目前采用 [Github](https://github.com) + [Cloudflare](https://cloudflare.com) 的方式进行部署，今后可能切换服务器部署～
+## 开发/技能
 
-Gyoza 的核心理念是简洁，快速，可爱。
-
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
-
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
-
-## 关于作者
-
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+目前在研究 ```前端开发``` ，日常工具有 ```VisualStudioCode``` ```Git``` ，```GitHub``` 老粉。目前会 ```HTML``` ```CSS``` ```NextJS``` ```Python``` ```C++（竞赛方面，我无话可说）``` ```React``` ```Astro```。
 
 ## 致谢
 
